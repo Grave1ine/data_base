@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EditWindow.qml</file>
+        <file>Cell.qml</file>
+        <file>MainPage.qml</file>
+        <file>AdditionEmploy.qml</file>
+        <file>res/back.png</file>
+        <file>res/icon.ico</file>
+        <file>res/icons8-добавить-32.png</file>
+        <file>res/icons8-мусор-50.png</file>
+        <file>res/icons8-редактировать-свойство-50.png</file>
+        <file>res/icons8-сохранить-50.png</file>
+        <file>res/icons8-сохранить-в-сетке-50.png</file>
+        <file>res/next.png</file>
+    </qresource>
+</RCC>
